@@ -66,6 +66,5 @@ public class ShootProjectile : MonoBehaviour
             mainCamera.enabled = false;
             morganCamera.enabled = true;
         }
-        
     }
 }
